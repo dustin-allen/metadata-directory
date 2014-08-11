@@ -1,18 +1,11 @@
 ---
-title: Metadata Directory
 name: index
-type: home
-layout: base
-
+#layout: post
+layout: about
+title:  "Getting Started"
+date:   2014-08-03 19:55:16
+categories: jekyll update
 ---
-
-[Prototype metadata directory]({{ site.baseurl }}/) for the Research Data Alliance.
-
-* [View the standards]({{ site.baseurl }}/standards/)
-* [View the extensions]({{ site.baseurl }}/extensions/)
-* [View the tools]({{ site.baseurl }}/tools/)
-* [View the use cases]({{ site.baseurl }}/use_cases/)
-* [Browse by subject areas]({{ site.baseurl }}/subjects/)
 
 ## Structure of the Directory
 
@@ -79,3 +72,4 @@ Jekyll to process HTML, YAML, and Markdown files to generate a static website.
 If you choose to clone the repository running a local version of Jekyll is
 helpful for troubleshooting:
 [https://help.github.com/articles/using-jekyll-with-pages](https://help.github.com/articles/using-jekyll-with-pages)
+
